@@ -33,12 +33,19 @@
 </a>
 
 <!--Socials End-->
-    
+
+<!--GuestBook-->
+
+<div>
+<a href="https://github.com/fykaa/fykaa/issues/1#issuecomment-new"><img height="50"src="/assets/decoratives/penbook.png"></a> 
+</div>    
+
+<!--GuestBook Ends-->
+
 <!--Snake Contribution Graph-->    
     
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contributiongrid.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+    
 <br/>
     
 <!--Snake Contribution Graph Ends--> 
@@ -69,16 +76,6 @@
     
 <!--Recent Activity & Streaks End-->    
 
-<!--Trophy-->
-    
-<!--     
-[![GitHub stats](https://github-profile-trophy.vercel.app/?username=fykaa&theme=radical&margin-h=15&margin-w=5&no-bg=true)](https://github.com/fykaa/github-readme-stats)
- -->
-    
-![GitHub stats](https://github-profile-trophy.vercel.app/?username=fykaa&column=8&row=1&theme=dracula&no-frame=true)
-
-<!--Trophy Ends-->
-
 <!--Tools & Tech-->
 
 <div></div>
@@ -105,14 +102,25 @@
 <!--Tools & Tech End-->
     
     
+<!--Trophy-->
     
+<!--     
+![trophy](https://github-profile-trophy.vercel.app/?username=fykaa&theme=radical&margin-h=15&margin-w=5&column=4&no-frame=true&no-bg=true)
+ -->
     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=fykaa&column=8&row=1&theme=dracula&no-frame=true)
+
+<!--Trophy Ends-->
     
-    
+<!--Contribution Graph-->    
+
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username=fykaa&bg_color=0000000&color=dd6286&line=dd6286&point=282a36&area_color=dd6286&area=true&hide_border=true)
+
+<!--Contribution Graph Ends-->  
     
 
 <!--Profile Views Badge-->
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=fykaa&style=circle&color=red" alt="views"/></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=fykaa&style=circle&color=dd6286" alt="views"/></div>
 
 <!--Profile Views Badge End-->
