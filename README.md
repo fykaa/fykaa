@@ -34,11 +34,55 @@
 
 <!--Socials End-->
     
+<!--Snake Contribution Graph-->    
+    
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contributiongrid.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+<br/>
+    
+<!--Snake Contribution Graph Ends--> 
+  
+    
+    
+<!--About-->
+
+<h1> About </h1> 
+    
+ <p> Hey there! I am Faaeeekaa!🌷 A Computer Science Undergrad, with a love for technology and entrepreneurship.👩‍💻 
+     Open source and Communities is my strength and you'll find me exploring every thing around it!🔎
+     I also enjoy creating stuffs- projects, written content, models, etc. as it gives me an outlet to convey my ideas and share my insights! Making meaningful connections is truly my raison d'être, hence I enjoy public speaking, networking, helping out folks in my leisure time and community building.🤝 
+     As a Tech-Savvy I am passionate about crafting my Tech Stacks, thereby constructing reliable and effective projects to simplify everyday life.💡
+     Additionally, I'm eager to work on diverse projects that can mend the numerous vulnerabilities.🎗️Furthermore, I am confident that my problem-solving proficiency will be of vital importance :) 
+    
+</p>
+
+<!--About Ends-->
+    
+<!--Recent Activity & Streaks-->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fykaa&show_icons=true&theme=dracula&count_private=true)](https://github.com/fykaa/github-readme-stats)
+
+<!-- 
+[![GitHub Streaks stats](https://github-readme-streak-stats.herokuapp.com?user=fykaa&theme=radical&hide_border=true)](https://github.com/fykaa/github-readme-stats)    
+-->
+    
+<!--Recent Activity & Streaks End-->    
+
+<!--Trophy-->
+    
+<!--     
+[![GitHub stats](https://github-profile-trophy.vercel.app/?username=fykaa&theme=radical&margin-h=15&margin-w=5&no-bg=true)](https://github.com/fykaa/github-readme-stats)
+ -->
+    
+![GitHub stats](https://github-profile-trophy.vercel.app/?username=fykaa&column=8&row=1&theme=dracula&no-frame=true)
+
+<!--Trophy Ends-->
+
 <!--Tools & Tech-->
 
 <div></div>
 <img alt="Tools & Technologies" height="50" src="/assets/languages/tools.png" />    
-    
 <div></div>
     
 <img height="80" src="/assets/languages/python.png" />
@@ -59,14 +103,6 @@
 <img height="80" src="/assets/languages/git.png" />
 <img height="80" src="/assets/languages/gcp.png" />
 <!--Tools & Tech End-->
-
-    
-    
-    
-    
-    
-    
-    
     
     
     
