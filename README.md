@@ -37,27 +37,27 @@
 <!--Tools & Tech-->
 
 <div></div>
-<img alt="Tools & Technologies" height="90" src="" />    
+<img alt="Tools & Technologies" height="50" src="/assets/languages/tools.png" />    
     
 <div></div>
     
-<img height="100" src="/assets/languages/python.png" />
-<img height="100" src="/assets/languages/javascript.png" />
-<img height="100" src="/assets/languages/cpp.png" />
-<img height="100" src="/assets/languages/c.png" />
-<img height="100" src="/assets/languages/react.png" />
-<img height="100" src="/assets/languages/bootstrap.png" />
-<img height="100" src="/assets/languages/html.png" />
+<img height="80" src="/assets/languages/python.png" />
+<img height="80" src="/assets/languages/javascript.png" />
+<img height="80" src="/assets/languages/cpp.png" />
+<img height="80" src="/assets/languages/c.png" />
+<img height="80" src="/assets/languages/react.png" />
+<img height="80" src="/assets/languages/bootstrap.png" />
+<img height="80" src="/assets/languages/html.png" />
 <br></br>
-<img height="100" src="/assets/languages/css.png" />
-<img height="100" src="/assets/languages/vsc.png" />
-<img height="100" src="/assets/languages/tailwind.png" />
-<img height="100" src="/assets/languages/npm.png" />
-<img height="100" src="/assets/languages/node.png" />
-<img height="100" src="/assets/languages/mysql.png" />
-<img height="100" src="/assets/languages/kubernetes.png" />
-<img height="100" src="/assets/languages/git.png" />
-<img height="100" src="/assets/languages/gcp.png" />
+<img height="80" src="/assets/languages/css.png" />
+<img height="80" src="/assets/languages/vsc.png" />
+<img height="80" src="/assets/languages/tailwind.png" />
+<img height="80" src="/assets/languages/npm.png" />
+<img height="80" src="/assets/languages/node.png" />
+<img height="80" src="/assets/languages/mysql.png" />
+<img height="80" src="/assets/languages/kubernetes.png" />
+<img height="80" src="/assets/languages/git.png" />
+<img height="80" src="/assets/languages/gcp.png" />
 <!--Tools & Tech End-->
 
     
