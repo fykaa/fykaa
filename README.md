@@ -24,7 +24,7 @@
     <img height="70" src="/assets/socials/linkedin.png" />
 </a>
 
-<a href="https://leetcode.com/faeka/">
+<a href="https://leetcode.com/fyka/">
     <img height="70" src="/assets/socials/leetcode.png" />
 </a>
 
@@ -76,6 +76,14 @@
     
 <!--Recent Activity & Streaks End-->    
 
+<!--Holopin-->
+
+<div>
+<a href="https://www.holopin.io/@fyka"><img height="190" src="https://holopin.io/api/user/board?user=fyka"></a> 
+</div>
+
+<!--Holopin Ends-->
+
 <!--Tools & Tech-->
 
 <div></div>
@@ -99,16 +107,9 @@
 <img height="80" src="/assets/languages/kubernetes.png" />
 <img height="80" src="/assets/languages/git.png" />
 <img height="80" src="/assets/languages/gcp.png" />
-<!--Tools & Tech End-->
-
-<!--Holopin-->
-
-<div>
-<a href="https://www.holopin.io/@fyka"><img height="190" src="https://holopin.io/api/user/board?user=fyka"></a> 
-</div>
-
-<!--Holopin Ends-->
-
+<!--Tools & Tech End-->    
+    
+    
 <!--Trophy-->
     
 <!--     
