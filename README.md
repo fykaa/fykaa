@@ -49,7 +49,7 @@
 <br/>
     
 <!--Snake Contribution Graph Ends--> 
-  
+ 
     
     
 <!--About-->
@@ -125,7 +125,19 @@
 ![graph](https://github-readme-activity-graph.cyclic.app/graph?username=fykaa&bg_color=0000000&color=dd6286&line=dd6286&point=282a36&area_color=dd6286&area=true&hide_border=true)
 
 <!--Contribution Graph Ends-->  
-    
+ 
+ 
+<!--Profile Metrics-->
+
+<!-- <details><summary><b>PROFILE METRICS<img src="" width=50px height=40px></b></summary>
+<p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/fykaa/fykaa/main/github-metrics.svg">
+</p>
+</details>
+ -->
+
+<!--Profile Metrics Ends-->
 
 <!--Profile Views Badge-->
 
@@ -137,7 +149,7 @@
 
 <details>
     <summary>My Achievements</summary>
-    <p><strong>Have a Good Day!</strong></p>
+    <p><strong>I am aware of all the Internet Traditions and I am never gonna give them up!</strong></p>
     <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180" height="auto" /></a>
     <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
     <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180" height="auto" /></a>
@@ -167,6 +179,8 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/d2e2d90f68200d727900433f422c0a1de222919c/images/banner.svg"  width="600"> -->
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg" width="1000"> -->
 
 </details>
 
