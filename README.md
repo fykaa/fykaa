@@ -3,7 +3,7 @@
 ![GitHub Header](/assets/banner/small.png)
 
 <!--Socials-->
-<!-- 
+
 <a href="https://twitter.com/1fyka">
     <img height="70" src="/assets/socials/twitter.png" />
 </a>
@@ -30,7 +30,7 @@
 
 <a href="https://youtube.com/@fyka">
     <img height="70" src="/assets/socials/youtube.png" />
-</a> -->
+</a>
 
 <!--Socials End-->
 
