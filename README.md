@@ -136,6 +136,7 @@
 </p>
 </details>
  -->
+ 
 
 <!--Profile Metrics Ends-->
 
@@ -185,3 +186,20 @@
 </details>
 
 <!--RickRoll Ends-->
+
+<!--Repositories-->
+<!-- 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/fykaa/Sample-Portfolio-for-Learners" title="Sample-Portfolio-for-Learners"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fykaa&repo=Sample-Portfolio-for-Learners&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/fykaa/Content-Corral" title="Content-Corral"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fykaa&repo=Content-Corral&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/fykaa/PyPAL-Python-Powered-Personal-Assistant" title="PyPAL-Python-Powered-Personal-Assistant"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fykaa&repo=PyPAL-Python-Powered-Personal-Assistant&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/fykaa/Content-Corral" title="Content-Corral"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=fykaa&repo=Content-Corral&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+ -->
+<!--Repositories End-->
