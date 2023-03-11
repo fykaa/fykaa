@@ -115,7 +115,7 @@
 <details>
 <summary>𝕸𝖞 𝕽𝖊𝖈𝖊𝖓𝖙 𝕿𝖜𝖊𝖊𝖙𝖘</summary>
 
-![tweets](https://github-readme-twitter.gazf.vercel.app/api?id=1fyka&show_border=on&show_retweet=off&show_reply=off&layout=normal)
+[![tweets](https://github-readme-twitter.gazf.vercel.app/api?id=1fyka&show_border=on&show_retweet=off&show_reply=off&layout=normal)](https://twitter.com/1fyka)
 
 </details>
 
