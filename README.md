@@ -1,6 +1,7 @@
 <div align="center">
 
-[![GitHub Header](/assets/banner/small.png)](https://discord.com/invite/HAJVhyaheu)](https://discord.com/invite/HAJVhyaheu)
+[![GitHub Header](/assets/banner/small.png)](https://discord.com/invite/HAJVhyaheu)
+   
     
 <!--Socials-->
 
