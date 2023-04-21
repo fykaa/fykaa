@@ -168,13 +168,14 @@
  
 <!--Profile Metrics-->
 
-<!-- <details><summary><b>PROFILE METRICS<img src="" width=50px height=40px></b></summary>
+<details><summary><b>PROFILE METRICS<img src="" width=50px height=40px></b></summary>
 <p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/fykaa/fykaa/main/github-metrics.svg">
+<!-- <img src="https://raw.githubusercontent.com/fykaa/fykaa/main/github-metrics.svg"> -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 </p>
 </details>
- -->
+
  
 
 <!--Profile Metrics Ends-->
