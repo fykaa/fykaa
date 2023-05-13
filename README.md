@@ -168,11 +168,11 @@
  
 <!--Profile Metrics-->
 
-<details><summary><b>PROFILE METRICS</b></summary>
+<!-- <details><summary><b>PROFILE METRICS</b></summary>
 <p>
-<p align="center">
+<p align="center"> -->
 <img height="600" src="/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+<!-- </p> -->
 </details>
 
  
