@@ -86,12 +86,9 @@
 <!--Recent Activity & Streaks End-->    
 
 <!--Holopin-->
-<details>
-<summary>𝕳𝖔𝖑𝖔𝖕𝖎𝖓 𝕾𝖚𝖈𝖈𝖊𝖘𝖘 𝕭𝖆𝖉𝖌𝖊𝖘</summary>
 <div>
 <a href="https://www.holopin.io/@fyka"><img height="190" src="https://holopin.io/api/user/board?user=fyka"></a> 
 </div>
-</details>
 <!--Holopin Ends-->
 
 <!--LinkedIn Readme-->
