@@ -144,6 +144,7 @@
 <img height="80" src="/assets/languages/bootstrap.png" />
 <img height="80" src="/assets/languages/html.png" />
 <br></br>
+<img height="80" src="/assets/languages/go.png" />
 <img height="80" src="/assets/languages/css.png" />
 <img height="80" src="/assets/languages/vsc.png" />
 <img height="80" src="/assets/languages/tailwind.png" />
