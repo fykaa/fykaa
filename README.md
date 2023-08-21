@@ -197,7 +197,7 @@
 <!--RickRoll-->
 
 <details>
-    <summary>Latest Achievemen</summary>
+    <summary>Latest Achievement</summary>
     <p><strong>Rick Rolling You! I am aware of all the Internet Traditions and I am never gonna give them up!</strong></p>
     <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180" height="auto" /></a>
     <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
