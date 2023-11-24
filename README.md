@@ -65,11 +65,9 @@
 
 <h1> About </h1> 
     
- <p> Hey there! I am Faaeeekaa!🌷 A Computer Science Undergrad, with a love for technology and entrepreneurship.👩‍💻 
-     Open source and Communities is my strength and you'll find me exploring every thing around it!🔎
-     I also enjoy creating stuffs- projects, written content, models, etc. as it gives me an outlet to convey my ideas and share my insights! Making meaningful connections is truly my raison d'être, hence I enjoy public speaking, networking, helping out folks in my leisure time and community building.🤝 
-     As a Tech-Savvy I am passionate about crafting my Tech Stacks, thereby constructing reliable and effective projects to simplify everyday life.💡
-     Additionally, I'm eager to work on diverse projects that can mend the numerous vulnerabilities.🎗️Furthermore, I am confident that my problem-solving proficiency will be of vital importance :) 
+ <p>  
+
+     You'll mostly find me hacking on Kubernetes, I do Istio at work. And my mentors and seniors often call me a rising star ;) Have always loved being in communities as a GitHub Campus expert or Google dev club leader. Open source is my strength and I enjoy creating stuffs - projects, written content, models, etc. as it gives me an outlet to convey my ideas and share my insights!
     
 </p>
 
@@ -84,48 +82,6 @@
 -->
     
 <!--Recent Activity & Streaks End-->    
-
-<!--Holopin-->
-<div>
-<a href="https://www.holopin.io/@fyka"><img height="190" src="https://holopin.io/api/user/board?user=fyka"></a> 
-</div>
-<!--Holopin Ends-->
-
-<!--LinkedIn Readme-->
-<!--
-<img src="https://github-readme-linkedin-delta.vercel.app/experience?username=faeka" />
--->
-<!--LinkedIn Readme-->
-
-<!-- Joke for the day -->
-<details>
-<summary>𝕿𝖊𝖈𝖍𝖓𝖎𝖈𝖆𝖑 𝕸𝖊𝖒𝖊𝖘</summary>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=pinkish&hideBorder&textColor=292b36&aColor=#292b36&qColor=#b41375)
-
-</details>
-<!-- Joke for the day Ends -->
-
-<!--Quote of the Day-->
-
-<details>
-<summary>𝕿𝖊𝖈𝖍𝖓𝖎𝖈𝖆𝖑 𝕼𝖚𝖔𝖙𝖊𝖘</summary>
-
-![Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)
-
-</details>
-<!--Quote of the Day Ends-->
-
-<!--Tweets-->
-
-<details>
-<summary>𝕸𝖞 𝕽𝖊𝖈𝖊𝖓𝖙 𝕿𝖜𝖊𝖊𝖙𝖘</summary>
-
-[![tweets](https://github-readme-twitter.gazf.vercel.app/api?id=1fyka&show_border=on&show_retweet=off&show_reply=off&layout=normal)](https://twitter.com/1fyka)
-
-</details>
-
-<!--Tweets End-->
 
 <!--Tools & Tech-->
 
