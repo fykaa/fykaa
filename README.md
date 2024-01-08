@@ -1,7 +1,8 @@
 <div align="center">
 
+<!--
 [![GitHub Header](/assets/banner/small.png)](https://discord.com/invite/HAJVhyaheu)
-   
+   -->
     
 <!--Socials-->
 
