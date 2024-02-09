@@ -130,7 +130,7 @@
 | Kubernetes-sigs Subproject maintainer | Kubernetes | - | - |
 | Kubernetes KCSNA, KCSEU Content/CFP Team Leader | K8s | - | - |
 | Linux Foundation Mentorship CNCF Intern Istio | CNCF Istio | 4% | 09/2023 |
-
+| Harvard Women in Code Scholar | Harvard University | - | 12/2022 | 
 </details>
 
 
