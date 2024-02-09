@@ -106,18 +106,6 @@
 <img height="80" src="/assets/languages/git.png" />
 <img height="80" src="/assets/languages/gcp.png" /> -->
 <!--Tools & Tech End-->    
-    
-    
-<!--Trophy-->
-    
-<!--     
-![trophy](https://github-profile-trophy.vercel.app/?username=fykaa&theme=radical&margin-h=15&margin-w=5&column=4&no-frame=true&no-bg=true)
- -->
-    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=fykaa&column=8&row=1&theme=dracula&no-frame=true)
-
-<!--Trophy Ends--> 
 
 <!--Profile Views Badge-->
 
@@ -128,7 +116,26 @@
 <!--RickRoll-->
 
 <details>
-    <summary>Latest Achievement</summary>
+<summary> fun things i do in tech (my roles) </summary>
+
+| Achievement                           | Organization              | Selection Rate (~) | Date Achieved |
+| ------------------------------------- | ------------------------- | --------------- | ------------- |
+| Google Developer Student Clubs Leader | Google | 3% | 06/2023 |
+| GOLD Microsoft Learn Student Ambassador | Microsoft| 0.1% | 02/2024|
+| GitHub Campus Expert | GitHub | 0.6% | 11/2022 |
+| Linux Foundation in Training Scholar | Linux | 3% | 07/2023 |
+| KubeCon CloudNativeCon North America Speaker | CNCF | 7% | 11/2024 |
+| KubeDay India Speaker | Kubernetes | 7% | 12/2024 |
+| Kubernetes Release Team member v1.29 v1.30 | Kubernetes | 10% | 09/2023 |
+| Kubernetes-sigs Subproject maintainer | Kubernetes | - | - |
+| Kubernetes KCSNA, KCSEU Content/CFP Team Leader | K8s | - | - |
+| Linux Foundation Mentorship CNCF Intern Istio | CNCF Istio | 4% | 09/2023 |
+
+</details>
+
+
+<details>
+    <summary>latest achievement</summary>
     <p><strong>Rick Rolling You! I am aware of all the Internet Traditions and I am never gonna give them up!</strong></p>
     <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180" height="auto" /></a>
     <a href="https://discord.com/invite/HAJVhyaheu" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
