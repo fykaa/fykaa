@@ -124,8 +124,8 @@
 | GOLD Microsoft Learn Student Ambassador | Microsoft| 0.1% | 02/2024|
 | GitHub Campus Expert | GitHub | 0.6% | 11/2022 |
 | Linux Foundation in Training Scholar | Linux | 3% | 07/2023 |
-| KubeCon CloudNativeCon North America Speaker | CNCF | 7% | 11/2024 |
-| KubeDay India Speaker | Kubernetes | 7% | 12/2024 |
+| KubeCon CloudNativeCon North America Speaker | CNCF | 7% | 11/2023 |
+| KubeDay India Speaker | Kubernetes | 7% | 12/2023 |
 | Kubernetes Release Team member v1.29 v1.30 | Kubernetes | 10% | 09/2023 |
 | Kubernetes-sigs Subproject maintainer | Kubernetes | - | - |
 | Kubernetes KCSNA, KCSEU Content/CFP Team Leader | K8s | - | - |
