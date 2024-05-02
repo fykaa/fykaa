@@ -120,6 +120,7 @@
 
 | Achievement                           | Organization              | Selection Rate (~) | Date Achieved |
 | ------------------------------------- | ------------------------- | --------------- | ------------- |
+| CNCF Ambassador | CNCF| - | 05/2024|
 | Google Developer Student Clubs Leader | Google | 3% | 06/2023 |
 | GOLD Microsoft Learn Student Ambassador | Microsoft| 0.1% | 02/2024|
 | GitHub Campus Expert | GitHub | 0.6% | 11/2022 |
